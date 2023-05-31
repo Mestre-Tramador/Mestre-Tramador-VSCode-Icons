@@ -1,0 +1,29 @@
+############################################################
+# PLANTILLA DE ISSUE PARA SOLICITUDES DE FEATURES (ÍCONOS) #
+############################################################
+
+name: Solicitudes de Íconos
+description: Se creará un Ícono en el repositorio.
+title: "[FEAT]: "
+labels: ["Type: Feature Request", "Status: Opened"]
+assignees:
+  - Mestre-Tramador
+body:
+  - type: textarea
+    id: icon_description
+    attributes:
+      label: Descripción del Ícono
+      description: Por favor, explique de forma concisa cuál es el icono que se solicita crear y, si es posible, referencias al mismo.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: no_duplicates
+    attributes:
+      label: Confirmación de No Duplicados
+      description: Por favor realice una Solicitude de Íconos solo si no se ha realizado ninguna igual, o bien, consulte la existente.
+      options:
+        - label: He buscado las issues existentes y no he encontrado ninguna igual.
+          required: true

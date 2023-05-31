@@ -1,0 +1,29 @@
+####################################################
+# TEMPLATE DE ISSUE PARA PEDIDO DE FEATURE (ÍCONE) #
+####################################################
+
+name: Pedido de Ícone
+description: Um Ícone será adicionado ao repositório.
+title: "[FEAT]: "
+labels: ["Type: Feature Request", "Status: Opened"]
+assignees:
+  - Mestre-Tramador
+body:
+  - type: textarea
+    id: icon_description
+    attributes:
+      label: Descrição do Ícone
+      description: Por favor explique de forma concisa qual é o ícone solicitado a ser criado e, se possível, as referências a ele.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: no_duplicates
+    attributes:
+      label: Confirmação de Não Duplicadas
+      description: Por favor faça um Pedido de Ícone apenas se nenhum outro igual foi feito, senão vá conferir o existente.
+      options:
+        - label: Eu verifiquei as issues existentes e não encontrei nenhuma igual.
+          required: true

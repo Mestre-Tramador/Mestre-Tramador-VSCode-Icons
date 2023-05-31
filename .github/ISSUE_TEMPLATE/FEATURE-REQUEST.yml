@@ -1,0 +1,29 @@
+##############################################
+# ISSUE TEMPLATE FOR FEATURE (ICON) REQUESTS #
+##############################################
+
+name: Icon Request
+description: An Icon shall be added to the repository.
+title: "[FEAT]: "
+labels: ["Type: Feature Request", "Status: Opened"]
+assignees:
+  - Mestre-Tramador
+body:
+  - type: textarea
+    id: icon_description
+    attributes:
+      label: Icon Description
+      description: Please explain concisely what is the icon requested to be created, and, if possible, references to it.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: no_duplicates
+    attributes:
+      label: Confirmation of No Duplicates
+      description: Please make an Icon Request only if none equal was made, or else go check the existing one.
+      options:
+        - label: I have searched the existing issues and not found any equal.
+          required: true

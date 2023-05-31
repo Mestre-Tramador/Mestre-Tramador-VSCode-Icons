@@ -1,0 +1,111 @@
+{
+  "vsicons.associations.files": [
+    {
+      "icon": "blockbench",
+      "extensions": [
+        "bbmodel"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "changelog",
+      "extensions": [
+        "CHANGELOG.md"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "code_of_conduct",
+      "extensions": [
+        "CODE_OF_CONDUCT.md"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "contributing",
+      "extensions": [
+        "CONTRIBUTING.md"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "readme",
+      "extensions": [
+        "README.md"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "security",
+      "extensions": [
+        "SECURITY.md"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "styleci",
+      "extensions": [
+        ".styleci.yml"
+      ],
+      "format": "svg",
+      "filename": true
+    }
+  ],
+  "vsicons.associations.folders": [
+    {
+      "icon": "badge",
+      "extensions": [
+        "badge",
+        "badges",
+        "shields.io"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "blockbench",
+      "extensions": [
+        "blockbench",
+        "bbmodel",
+        "bbmodels"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "issue",
+      "extensions": [
+        "ISSUE_TEMPLATE",
+        "ISSUE_TEMPLATES"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "photoshop",
+      "extensions": [
+        "photoshop",
+        "psd"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "pull_request",
+      "extensions": [
+        "PULL_REQUEST_TEMPLATE",
+        "PULL_REQUEST_TEMPLATES"
+      ],
+      "format": "svg"
+    },
+    {
+      "icon": "vue",
+      "extensions": [
+        "vue",
+        "vue.js"
+      ],
+      "format": "svg"
+    }
+  ]
+}
