@@ -11,6 +11,19 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 - Scripts para instalação
 - Scripts para criação de JSONs de configuração personalizadas para VS Code
 
+## [1.1.0] - 2023-06-03
+
+### Adicionado
+
+#### Arquivos
+
+- Arquivos index do React
+- Arquivos de teste do React
+- Arquivos de Tipos de TypeScript para React
+- CRACO
+- PWA
+- React com Sass ou SCSS
+
 ## [1.0.0] - 2023-05-31
 
 ### Adicionado
@@ -39,7 +52,8 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 [English]: CHANGELOG.md
 [Español]: CHANGELOG.ES.md
-[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador/releases/tag/v1.0.0
+[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/releases/tag/v1.0.0
 [Shields.io]: https://github.com/badges
 [Exper-Dat-Reader]: https://github.com/Mestre-Tramador/Exper-Dat-Reader

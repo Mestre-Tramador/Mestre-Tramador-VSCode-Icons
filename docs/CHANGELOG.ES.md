@@ -12,6 +12,19 @@ Versioning].
 - Scripts para la instalación
 - Scripts para la creación de JSONs de configuración personalizados para VS Code
 
+## [1.1.0] - 2023-06-03
+
+### Adicionado
+
+#### Archivos
+
+- Archivos index de React
+- Archivos de testes de React
+- Archivos de Tipos de Typescript para React
+- CRACO
+- PWA
+- React con Sass o SCSS
+
 ## [1.0.0] - 2023-05-31
 
 ### Adicionado
@@ -40,7 +53,8 @@ Versioning].
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 [English]: CHANGELOG.md
 [Português Brasileiro]: CHANGELOG.PT-BR.md
-[No Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador/releases/tag/v1.0.0
+[No Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/releases/tag/v1.0.0
 [Shields.io]: https://github.com/badges
 [Exper-Dat-Reader]: https://github.com/Mestre-Tramador/Exper-Dat-Reader

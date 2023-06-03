@@ -32,6 +32,23 @@
       "filename": true
     },
     {
+      "icon": "craco",
+      "extensions": [
+        "craco.config.js",
+        "craco.config.ts"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "pwa",
+      "extensions": [
+        "manifest.json"
+      ],
+      "format": "svg",
+      "filename": true
+    },
+    {
       "icon": "readme",
       "extensions": [
         "README.md"
