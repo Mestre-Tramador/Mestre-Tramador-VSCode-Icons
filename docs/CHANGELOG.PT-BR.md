@@ -11,6 +11,24 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 - Scripts para instalação
 - Scripts para criação de JSONs de configuração personalizadas para VS Code
 
+## [1.2.0] - 2023-07-17
+
+### Adicionado
+
+#### Arquivos
+
+- Variações de TypeScript XML
+- Variações de JavaScript XML
+- Alternativa de `package.json` apenas para JavaScript
+- Alternativa de `package.json` apenas para TypeScript
+- Alternativa de `package.json` apenas para `npm`
+- alternativa de `package.json` apenas para `yarn`
+- Alternativa de `package.json` apenas para `pnpm`
+
+#### Pastas
+
+- Enums
+
 ## [1.1.0] - 2023-06-03
 
 ### Adicionado
@@ -52,7 +70,8 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 [English]: CHANGELOG.md
 [Español]: CHANGELOG.ES.md
-[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...HEAD
+[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/releases/tag/v1.0.0
 [Shields.io]: https://github.com/badges

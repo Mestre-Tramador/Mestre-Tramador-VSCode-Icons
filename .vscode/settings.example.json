@@ -93,6 +93,14 @@
       "format": "svg"
     },
     {
+      "icon": "enum",
+      "extensions": [
+        "enum",
+        "enums"
+      ],
+      "format": "svg"
+    },
+    {
       "icon": "issue",
       "extensions": [
         "ISSUE_TEMPLATE",

@@ -12,6 +12,24 @@ Versioning].
 - Scripts para la instalación
 - Scripts para la creación de JSONs de configuración personalizados para VS Code
 
+## [1.2.0] - 2023-07-17
+
+### Adicionado
+
+#### Archivos
+
+- Variaciones de TypeScript XML
+- Variaciones de JavaScript XML
+- Alternativa de `package.json` solo para JavaScript
+- Alternativa de `package.json` solo para TypeScript
+- Alternativa de `package.json` solo para `npm`
+- Alternativa de `package.json` solo para `yarn`
+- Alternativa de `package.json` solo para `pnpm`
+
+#### Carpetas
+
+- Enums
+
 ## [1.1.0] - 2023-06-03
 
 ### Adicionado
@@ -53,7 +71,8 @@ Versioning].
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 [English]: CHANGELOG.md
 [Português Brasileiro]: CHANGELOG.PT-BR.md
-[No Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...HEAD
+[No Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador-VSCode-Icons/releases/tag/v1.0.0
 [Shields.io]: https://github.com/badges
